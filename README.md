@@ -1,4 +1,3 @@
-```markdown
 # Face Classification using Deep Learning 🧠📸
 
 This repository contains a complete pipeline for training and evaluating a deep learning model to perform face identification across thousands of classes using transfer learning with PyTorch.
@@ -33,5 +32,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Made with ❤️ by Abubakar Imran
-```
+Made by Abubakar Imran
